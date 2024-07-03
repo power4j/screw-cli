@@ -16,7 +16,7 @@
   <properties>
     <java.version>11</java.version>
     <!-- lib -->
-    <screw.version>1.0.6</screw.version>
+    <screw.version>1.0.7</screw.version>
   </properties>
   <dependencies>
     <dependency>
